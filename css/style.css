@@ -33,7 +33,7 @@ h4 {
 
 }
 h4.indifferent{
-   background: linear-gradient(to left, #aaaa00 50%, #dddd22 75%);
+   background: linear-gradient(to left, #aaaa00 50%, #dddd22 25%);
  }
 .indifferent {
   background-color: #dddd22;
