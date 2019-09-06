@@ -24,7 +24,7 @@ h4 {
   margin: 20px 0 0 0;
 }
  h4.amiable{
-   background: linear-gradient(to left, #22aa44 50%, #44cc66 75%);
+   background: linear-gradient(to left, #22aa44 50%==, #44cc66 75%);
  }
 .amiable {
   border: 1px solid #22aa44;
@@ -32,7 +32,9 @@ h4 {
   background-color: #44cc66;
 
 }
-
+h4.indifferent{
+   background: linear-gradient(to left, #22aa44 50%, #44cc66 75%);
+ }
 .indifferent {
   background-color: #dddd22;
   box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
